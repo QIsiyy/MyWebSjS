@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sjs.studentjournal.mapper.SceSpotMapper">
+    <select id="listByCondition" resultType="com.sjs.studentjournal.entity.SceSpot">
+        select * from scespot
+        <where>
+            <if test="id != null and id != ''">
+                id like concat('%' , #{ id } , '%')
+            </if>
+            <if test="name != null and name != ''">
+                and name like concat('%' , #{ name } , '%')
+            </if>
+        </where>
+        order by id desc
+    </select>
+    <insert id="save">
+        insert into scespot(name,image,thumbs,popularity)
+        values (#{name},#{image},#{thumbs}, #{popularity})
+    </insert>
+
+    <select id="getById" resultType="com.sjs.studentjournal.entity.SceSpot">
+        select * from scespot where id =#{id}
+    </select>
+    <select id="listById" resultType="com.sjs.studentjournal.entity.SceSpot">
+        select * from scespot where id =#{id}
+    </select>
+    <update id="update">
+        update scespot set name=#{name},  image=#{image}, thumbs=#{thumbs}, popularity=#{popularity}
+    </update>
+    <delete id="deleteById">
+        delete from scespot where id=#{id}
+    </delete>
+</mapper>
