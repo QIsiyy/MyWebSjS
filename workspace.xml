@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a5dfeae-f36b-49af-b652-b5938de61d08" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gK3hNouwVy17n2eDadIBfJvdUY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP 请求.generated-requests | #1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.StudentjournalApplication.executor": "Debug",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/VsCode_codeDemo/Homework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.run.executor": "Run",
+    "npm.serve.executor": "Run",
+    "npm.serve_front.executor": "Run",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "F:\\Program Files\\IntelliJ IDEA 2024.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\myWebSjs\Mywebinfro\vue\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\myWebSjs\Mywebinfro\vue\src\views\User" />
+      <recent name="G:\myWebSjs\Mywebinfro\vue\src\utils" />
+      <recent name="G:\myWebSjs\Mywebinfro\vue\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StudentjournalApplication">
+    <configuration name="StudentjournalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="studentjournal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sjs.studentjournal.StudentjournalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Mywebinfro/vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve_front" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/fronthead/fro/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.serve" />
+      <item itemvalue="npm.serve_front" />
+      <item itemvalue="Spring Boot.StudentjournalApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1a5dfeae-f36b-49af-b652-b5938de61d08" name="更改" comment="" />
+      <created>1715432560253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715432560253</updated>
+      <workItem from="1715432561495" duration="8339000" />
+      <workItem from="1715441470693" duration="33000" />
+      <workItem from="1715441540421" duration="3707000" />
+      <workItem from="1715450244107" duration="11372000" />
+      <workItem from="1715461686405" duration="20637000" />
+      <workItem from="1715583261514" duration="12000" />
+      <workItem from="1715583404450" duration="74000" />
+      <workItem from="1715585337388" duration="8000" />
+      <workItem from="1715586490767" duration="593000" />
+      <workItem from="1715593203314" duration="36000" />
+      <workItem from="1715625816008" duration="13253000" />
+      <workItem from="1715650096844" duration="3000" />
+      <workItem from="1715651108443" duration="2012000" />
+      <workItem from="1715692557325" duration="173000" />
+      <workItem from="1715696010083" duration="3639000" />
+      <workItem from="1715740051897" duration="777000" />
+      <workItem from="1715843429324" duration="9917000" />
+      <workItem from="1715875329290" duration="156000" />
+      <workItem from="1716230609031" duration="6088000" />
+      <workItem from="1716445787047" duration="6462000" />
+      <workItem from="1716482757154" duration="1006000" />
+      <workItem from="1716485357173" duration="9387000" />
+      <workItem from="1716528929112" duration="1279000" />
+      <workItem from="1716617595398" duration="1497000" />
+      <workItem from="1716624299797" duration="2000" />
+      <workItem from="1716635756378" duration="2000" />
+      <workItem from="1716705451419" duration="17587000" />
+      <workItem from="1716779074655" duration="7000" />
+      <workItem from="1716815606282" duration="9000" />
+      <workItem from="1716828761656" duration="8672000" />
+      <workItem from="1716916042791" duration="225000" />
+      <workItem from="1716995956186" duration="2115000" />
+      <workItem from="1717003310560" duration="471000" />
+      <workItem from="1717049095890" duration="4677000" />
+      <workItem from="1717143340820" duration="1921000" />
+      <workItem from="1717223386970" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Mywebinfro/vue/src/views/User/AddUser.vue</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/studentjournal/src/main/java/com/sjs/studentjournal/service/Impl/UserServiceImpl.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/studentjournal/src/main/java/com/sjs/studentjournal/service/Impl/SceSpotServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/studentjournal/src/main/java/com/sjs/studentjournal/service/Impl/UserServiceImpl.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="Result.success()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
